@@ -4,7 +4,7 @@
 
 #### 🚀 Glad to see you here! ❤️
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=nitiraj195&label=Profile+Views&color=blue&style=plastic)
 
 ---
 
