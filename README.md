@@ -120,15 +120,9 @@ flowchart LR
 
 ### 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nitiraj195&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nitiraj195&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nitiraj195&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitiraj195&layout=compact&hide_border=true" alt="Top Languages" />
-</picture>
+[![](https://raw.githubusercontent.com/nitiraj195/nitiraj195/main/profile-summary-card-output/swift/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nitiraj195/nitiraj195/main/profile-summary-card-output/swift/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nitiraj195/nitiraj195/main/profile-summary-card-output/swift/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nitiraj195/nitiraj195/main/profile-summary-card-output/swift/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nitiraj195/nitiraj195/main/profile-summary-card-output/swift/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
