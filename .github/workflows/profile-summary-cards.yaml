@@ -1,0 +1,19 @@
+name: GitHub Profile Summary Cards
+on:
+  schedule:
+    - cron: '0 0 * * *'   # regenerates daily at midnight UTC
+  workflow_dispatch:       # lets you run it manually from the Actions tab
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate cards
+    steps:
+      - uses: actions/checkout@v4
+      # NOTE: enable Settings → Actions → General → Workflow permissions
+      #       → "Read and write permissions" so the cards can be committed
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: nitiraj195
+          THEME: swift
